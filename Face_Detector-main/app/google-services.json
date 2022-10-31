@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279252980536",
+    "firebase_url": "https://mlkitonline-27f62.firebaseio.com",
+    "project_id": "mlkitonline-27f62",
+    "storage_bucket": "mlkitonline-27f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279252980536:android:2f5b465b2a14982677a7cd",
+        "android_client_info": {
+          "package_name": "com.vibhathakur.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279252980536-ma1b8rl6l58segblk95jve2lf726mjg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibhathakur.facedetection",
+            "certificate_hash": "8aa00132d3a317a48d1f4412edb901d4d616c12a"
+          }
+        },
+        {
+          "client_id": "279252980536-m1300496rr7dn7dbb8msf8qsle57sjd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsC7gUmbShZVx2M6uoyht6L4kVPksVLF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279252980536-m1300496rr7dn7dbb8msf8qsle57sjd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
